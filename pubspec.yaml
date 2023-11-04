@@ -31,6 +31,7 @@ flutter_native_splash:
   android: true
   ios: true
   web: false
+  image: "assets/Weather-icon.png"
   color: "#ffffff"
 
   flutter_lints: ^2.0.0
